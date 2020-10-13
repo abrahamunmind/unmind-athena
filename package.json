@@ -1,11 +1,11 @@
 {
   "name": "unmind-athena-client",
-  "version": "2.5.2",
+  "version": "1.1.1",
   "description": "a nodejs simple aws athena client",
-  "homepage": "https://github.com/KoteiIto/node-athena",
+  "homepage": "https://github.com/abrahamunmind/unmind-athena",
   "repository": {
     "type": "git",
-    "url": "git@github.com:KoteiIto/node-athena.git"
+    "url": "git@github.com:abrahamunmind/unmind-athena.git"
   },
   "main": "build/index.js",
   "types": "build/index.d.ts",
