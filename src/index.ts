@@ -13,8 +13,8 @@ export interface AwsConfig {
 }
 
 export interface AwsSdkInstance {
-  s3?: aws.S3
-  athena?: aws.Athena
+  s3?: any
+  athena?: any
 }
 
 export * from './lib/client'
